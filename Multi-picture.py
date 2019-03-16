@@ -6,7 +6,7 @@ import string
 import matplotlib
 import time
 Color = ['blue','tomato','deeppink','purple','red','slateblue','springgreen','midnightblue','lightskyblue']
-#本文件适用于双（多）窗口实时绘图显示
+#本文件适用于双(多)窗口实时绘图显示
 #初始设置
 set_map=[2,1]           #表示第一个图上有2个函数，第二个图上有1个函数
 set_datanum = 3         #若需要接收3个浮点数，则输入3
